@@ -64,38 +64,38 @@
   align-items: center;
 }
 
-.nav-left>img {
+.nav-left img {
   width: 86px;
   height: 40px;
 }
 
-.nav-left>h2 {
+.nav-left h2 {
   font-size: 2.5rem;
   margin-left: .5rem;
 }
 
-.nav-left>span {
+.nav-left span {
   color: #FF42A5;
 }
 
-.nav-right>ul {
+.nav-right ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-.nav-right>ul>li {
+.nav-right ul li {
   list-style: none;
   margin-left: 2rem;
 }
 
-.nav-right>ul>li>a {
+.nav-right ul li a {
   text-decoration: none;
   color: #3C354F;
   font-weight: 500;
 }
 
-.nav-right>ul>li>:hover {
+.nav-right ul li :hover {
   color: #3c354fc0;
 }
 
